@@ -6,7 +6,7 @@ import MedicalTreatment from "./MedicalTreatment.js";
 
 
 
-export default function Apps() {
+export default function App() {
   return (
     <div>
       <h1>Medical Treatment!</h1>
